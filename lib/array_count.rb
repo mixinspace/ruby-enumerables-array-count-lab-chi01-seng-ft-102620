@@ -3,5 +3,6 @@ def count_strings(array)
     a.is_a?(string)
 
 end
+end
 
   # Return the total number of EMPTY strings in the provided array using the count enumerable
