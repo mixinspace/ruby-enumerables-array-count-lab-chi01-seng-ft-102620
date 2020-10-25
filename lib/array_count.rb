@@ -5,4 +5,10 @@ def count_strings(array)
 end
 end
 
+def count_empty_strings(array)
+  array.count do |a|
+    a = ""
+
+end
+
   # Return the total number of EMPTY strings in the provided array using the count enumerable
